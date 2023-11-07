@@ -1,0 +1,22 @@
+export const availableCourses:string[] = [
+  "Calculus",
+  "Programming Fundamentals",
+  "DSA",
+  "Discrete Structures",
+  "Linear Algebra",
+  "OOP",
+  "Operating System",
+  "Software Engineering 101",
+  "Web Development Fundamentals",
+  "Database Design and Management",
+  "Algorithms and Data Structures",
+  "Software Architecture",
+  "Software Project Management",
+  "User Interface Design",
+  "Mobile App Development",
+  "Artificial Intelligence in Software Engineering",
+  "Software Quality Assurance",
+  "Software Testing and Debugging",
+  "Cybersecurity in Software Engineering",
+  "Cloud Computing for Software Engineers"
+];
